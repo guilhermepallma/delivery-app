@@ -64,12 +64,12 @@ Navegue até a raíz do projeto.
   Para fazer login como vendedor, use as seguintes credenciais
 
       email: seller@email.com
-      passsword: secret_seller
+      passsword: senha12345
 
 ##### Entrar como administrador
 
   Para fazer login como administrador, use as seguintes credenciais
 
-      email: admin@email.com
-      passsword: secret_admin
+      email: adm@email.com
+      passsword: senha12345
 

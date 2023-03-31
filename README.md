@@ -32,7 +32,7 @@ Sips Delivery é um aplicativo Full Stack para dar suporte a uma distribuidora d
 - JWT: Biblioteca para gerar e verificar tokens JWT (JSON Web Tokens).
 - Docker: Software de código aberto usado para implantar aplicativos dentro de containers virtuais.
 
-## ⚙️ Execução
+## Execução
 
 <details>
   <summary>Clique para expandir!</summary>

@@ -1,4 +1,67 @@
 # Sips & Sips Delivery
-O projeto Sips Delivery é uma aplicação full-stack desenvolvida por [Guilherme Palma](https://github.com/guilhermepallma), [Ronan Salvador](https://github.com/ronansalvador), [Celso Rodrigo](https://github.com/celso-rodrigo), [Helder Daniel](https://github.com/helderdsa) e [Marcelo Carvalho](https://github.com/MarceloJRC). O objetivo desta aplicação é oferecer uma solução web eficiente e confiável para o gerenciamento de entregas, de bebidas.
 
 [Acesse aqui a aplicação](https://sips-delivery.vercel.app/)
+
+O projeto Sips Delivery é uma aplicação full-stack desenvolvida por [Guilherme Palma](https://github.com/guilhermepallma), [Ronan Salvador](https://github.com/ronansalvador), [Celso Rodrigo](https://github.com/celso-rodrigo), [Helder Daniel](https://github.com/helderdsa) e [Marcelo Carvalho](https://github.com/MarceloJRC). O objetivo desta aplicação é oferecer uma solução web eficiente e confiável para o gerenciamento de entregas, de bebidas.
+
+## Tecnologias utilizadas
+
+<div>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express"/>
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL" />
+    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
+    <img src="https://camo.githubusercontent.com/92407fc26e09271d8137b8aaf1585b266f04046b96f1564dfe5a69f146e21301/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a57542d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d4a534f4e253230776562253230746f6b656e73266c6f676f436f6c6f723d7768697465" alt="jwt"/>
+</div>
+
+<br>
+
+- Node.js: Plataforma de desenvolvimento de software em JavaScript para construir aplicativos de rede escaláveis.
+- React.js: Biblioteca JavaScript para a criação de interfaces de usuário — ou UI (user interface).
+- Express: Framework para Node.js que fornece recursos para construir aplicativos da Web.
+- MySQL: Banco de dados SQL relacional open-source.
+- JWT: Biblioteca para gerar e verificar tokens JWT (JSON Web Tokens).
+- Docker: Software de código aberto usado para implantar aplicativos dentro de containers virtuais.
+
+## ⚙️ Execução
+
+<details>
+  <summary>Clique para expandir!</summary>
+
+Para executar a aplicação inicie realizando o clone deste repositório com o comando abaixo.
+
+    git clone git@github.com:guilhermepallma/delivery-app.git
+
+Navegue até a raíz do projeto.
+
+    cd delivery-app/
+    
+  Subir os containers do back e front no Docker.
+    
+    docker-compose up -d
+    
+</details>
+
+</details>
+
+## Como fazer login
+
+##### Acessar como cliente
+
+ Para fazer login como usuário comum, você deve se registrar novamente clicando em "Ainda não tenho uma conta"
+
+##### Entrar como vendedor
+
+  Para fazer login como vendedor, use as seguintes credenciais
+
+      email: seller@email.com
+      passsword: secret_seller
+
+##### Entrar como administrador
+
+  To log in as a seller, use the following credentials
+
+      email: admin@email.com
+      passsword: secret_admin
+

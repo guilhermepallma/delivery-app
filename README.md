@@ -2,9 +2,17 @@
 
 [Acesse aqui a aplicação](https://sips-delivery.vercel.app/)
 
-O projeto Sips Delivery é uma aplicação full-stack desenvolvida por [Guilherme Palma](https://github.com/guilhermepallma), [Ronan Salvador](https://github.com/ronansalvador), [Celso Rodrigo](https://github.com/celso-rodrigo), [Helder Daniel](https://github.com/helderdsa) e [Marcelo Carvalho](https://github.com/MarceloJRC). O objetivo desta aplicação é oferecer uma solução web eficiente e confiável para o gerenciamento de entregas, de bebidas.
+Sips Delivery é um aplicativo Full Stack para dar suporte a uma distribuidora de bebidas. Este aplicativo oferece suporte a clientes, vendedores e ao administrador. Desenvolvido por [Guilherme Palma](https://github.com/guilhermepallma), [Ronan Salvador](https://github.com/ronansalvador), [Celso Rodrigo](https://github.com/celso-rodrigo), [Helder Daniel](https://github.com/helderdsa) e [Marcelo Carvalho](https://github.com/MarceloJRC).
 
-## Tecnologias utilizadas
+## Detalhes
+
+- Cliente: Como consumidor, é necessário fazer login ou se registrar, caso ainda não tenha uma conta. Assim, terá acesso a uma lista de produtos que poderão ser adicionados ao carrinho. Ao selecionar os produtos, será redirecionado para a tela de checkout, onde poderá revisar seu pedido e, posteriormente, finalizá-lo. Além disso, terá acesso ao histórico completo de seus pedidos.
+
+- Vendedor: Caso esteja registrado como vendedor, será possível fazer login e acessar todo o seu histórico de pedidos. Ao clicar em um pedido, poderá visualizar todos os detalhes do mesmo.
+
+- Administrador: Caso seja um usuário administrador, poderá fazer login e acessar a página de gerenciamento de vendedores. Nesta página, será possível visualizar todos os vendedores e clientes cadastrados, além de poder adicionar novos usuários.
+
+## Tecnologias Utilizadas
 
 <div>
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/>
@@ -60,7 +68,7 @@ Navegue até a raíz do projeto.
 
 ##### Entrar como administrador
 
-  To log in as a seller, use the following credentials
+  Para fazer login como administrador, use as seguintes credenciais
 
       email: admin@email.com
       passsword: secret_admin

@@ -53,7 +53,7 @@ Navegue até a raíz do projeto.
 
 </details>
 
-## Como fazer login
+## Como Fazer Login
 
 ##### Acessar como cliente
 

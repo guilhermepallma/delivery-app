@@ -1,7 +1,5 @@
 # Sips & Sips Delivery
 
-[Acesse aqui a aplicação](https://sips-delivery.vercel.app)
-
 Sips Delivery é um aplicativo Full Stack para dar suporte a uma distribuidora de bebidas. Este aplicativo oferece suporte a clientes, vendedores e ao administrador. Desenvolvido por [Guilherme Palma](https://github.com/guilhermepallma), [Ronan Salvador](https://github.com/ronansalvador), [Celso Rodrigo](https://github.com/celso-rodrigo), [Helder Daniel](https://github.com/helderdsa) e [Marcelo Carvalho](https://github.com/MarceloJRC).
 
 ## Detalhes
@@ -32,6 +30,18 @@ Sips Delivery é um aplicativo Full Stack para dar suporte a uma distribuidora d
 - JWT: Biblioteca para gerar e verificar tokens JWT (JSON Web Tokens).
 - Docker: Software de código aberto usado para implantar aplicativos dentro de containers virtuais.
 
+## Deploy
+
+<div>
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<div/>
+
+- Heroku: Usado para rodar a api Node.js e o banco de dados MySQL.
+- Vercel: Hospeda o frontend em React.js.
+  
+  [Acesse a Demo](https://sips-delivery.vercel.app)
+  
 ## Execução
 
 <details>
@@ -57,19 +67,19 @@ Navegue até a raíz do projeto.
 
 ##### Acessar como cliente
 
- Para fazer login como usuário comum, você deve se registrar novamente clicando em "Ainda não tenho uma conta"
+ Para fazer login como usuário comum, você deve se registrar clicando em "Ainda Não Tenho Uma Conta"
 
 ##### Entrar como vendedor
 
-  Para fazer login como vendedor, use as seguintes credenciais
+  Para fazer login como vendedor, use as seguintes credenciais:
 
-      email: seller@email.com
-      passsword: senha12345
+      email: vendedor@email.com
+      passsword: senha123
 
 ##### Entrar como administrador
 
-  Para fazer login como administrador, use as seguintes credenciais
+  Para fazer login como administrador, use as seguintes credenciais:
 
-      email: adm@email.com
-      passsword: senha12345
+      email: administrador@email.com
+      passsword: senha123
 

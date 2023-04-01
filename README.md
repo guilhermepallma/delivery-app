@@ -1,6 +1,6 @@
 # Sips & Sips Delivery
 
-[Acesse aqui a aplicação](https://sips-delivery.vercel.app/)
+[Acesse aqui a aplicação](https://sips-delivery.vercel.app)
 
 Sips Delivery é um aplicativo Full Stack para dar suporte a uma distribuidora de bebidas. Este aplicativo oferece suporte a clientes, vendedores e ao administrador. Desenvolvido por [Guilherme Palma](https://github.com/guilhermepallma), [Ronan Salvador](https://github.com/ronansalvador), [Celso Rodrigo](https://github.com/celso-rodrigo), [Helder Daniel](https://github.com/helderdsa) e [Marcelo Carvalho](https://github.com/MarceloJRC).
 

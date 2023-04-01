@@ -37,7 +37,7 @@ Sips Delivery é um aplicativo Full Stack para dar suporte a uma distribuidora d
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 <div/>
 
-- Heroku: Usado para rodar a api Node.js e o banco de dados MySQL.
+- Heroku: Hospeda a api Node.js e o banco de dados MySQL.
 - Vercel: Hospeda o frontend em React.js.
   
   [Acesse a Demo](https://sips-delivery.vercel.app)

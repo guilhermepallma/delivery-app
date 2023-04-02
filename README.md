@@ -94,12 +94,12 @@ Sips Delivery é um aplicativo Full Stack para dar suporte a uma distribuidora d
   Para fazer login como vendedor, use as seguintes credenciais:
 
       email: vendedor@email.com
-      passsword: senha123
+      password: senha123
 
 ##### Entrar como administrador
 
   Para fazer login como administrador, use as seguintes credenciais:
 
       email: administrador@email.com
-      passsword: senha123
+      password: senha123
 

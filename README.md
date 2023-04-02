@@ -59,17 +59,25 @@ Sips Delivery é um aplicativo Full Stack para dar suporte a uma distribuidora d
 <details>
   <summary>Clique para expandir!</summary>
 
-Para executar a aplicação inicie realizando o clone deste repositório com o comando abaixo.
+  Para executar a aplicação inicie realizando o clone deste repositório com o comando abaixo.
 
     git clone git@github.com:guilhermepallma/delivery-app.git
 
-Navegue até a raíz do projeto.
+  Navegue até a raíz do projeto.
 
     cd delivery-app/
     
-  Subir os containers do back e front no Docker.
+  Suba o contêiner do banco de dados no Docker.
     
     docker-compose up -d
+    
+  Instale as dependência básicas para rodas os scripts.
+  
+    npm install
+    
+  Inicie a aplicação e popule o banco de dados.
+  
+    npm run dev:prestart
     
 </details>
 

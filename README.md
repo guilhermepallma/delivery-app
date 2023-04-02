@@ -8,6 +8,12 @@ Sips Delivery é um aplicativo Full Stack para dar suporte a uma distribuidora d
 
 </div>
 
+<div align="center">
+
+[Acesse a Demo](https://sips-delivery.vercel.app)
+
+</div>
+
 ## Detalhes
 
 - Cliente: Como consumidor, é necessário fazer login ou se registrar, caso ainda não tenha uma conta. Assim, terá acesso a uma lista de produtos que poderão ser adicionados ao carrinho. Ao selecionar os produtos, será redirecionado para a tela de checkout, onde poderá revisar seu pedido e, posteriormente, finalizá-lo. Além disso, terá acesso ao histórico completo de seus pedidos.
